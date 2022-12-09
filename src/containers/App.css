@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Nerko One';
+    font-weight: normal;
+    font-style: normal;
+
+    src: local('Nerko One'), url('NerkoOne-Regular.ttf'), format('ttf');
+}
+
+h1 {
+    font-family: 'Nerko One', cursive;
+    font-weight: 700;
+    color: rgb(255, 0, 123);
+
+}
