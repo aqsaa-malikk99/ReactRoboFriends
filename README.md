@@ -1,6 +1,3 @@
-Here is a README file for the "ReactRoboFriends" project:
-
----
 
 # ReactRoboFriends
 
